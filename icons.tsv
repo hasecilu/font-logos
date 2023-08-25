@@ -52,32 +52,33 @@ offset		name					id
 50		BigLinux				biglinux
 51		bspwm					bspwm
 52		Cinnamon				cinnamon
-53		Crystal Linux				crystal
-54		dwm					dwm
-55		Enlightenment				enlightenment
-56		Fluxbox					fluxbox
-57		Garuda Linux				garuda
-58		GNOME					gnome
-59		Hyperbola GNU/Linux-libre		hyperbola
-60		Hyprland				hyprland
-61		i3					i3
-62		JWM					jwm
-63		KDE neon				kde-neon
-64		KDE Plasma				kde-plasma
-65		Kubuntu					kubuntu
-66		LXDE					lxde
-67		LXLE Linux				lxle
-68		LXQt					lxqt
-69		MATE					mate
-70		MX Linux				mxlinux
-71		Neovim					neovim
-72		Parabola GNU/Linux-libre 		parabola
-73		Puppy Linux				puppy
-74		Qtile					qtile
-75		Sway					sway
-76		Trisquel GNU/Linux			trisquel
-77		Vanilla OS				vanilla
-78		Wayland					wayland
-79		XFCE					xfce
-80		XMonad					xmonad
-81		Xorg					xorg
+53		Codeberg				codeberg
+54		Crystal Linux				crystal
+55		dwm					dwm
+56		Enlightenment				enlightenment
+57		Fluxbox					fluxbox
+58		Garuda Linux				garuda
+59		GNOME					gnome
+60		Hyperbola GNU/Linux-libre		hyperbola
+61		Hyprland				hyprland
+62		i3					i3
+63		JWM					jwm
+64		KDE neon				kde-neon
+65		KDE Plasma				kde-plasma
+66		Kubuntu					kubuntu
+67		LXDE					lxde
+68		LXLE Linux				lxle
+69		LXQt					lxqt
+70		MATE					mate
+71		MX Linux				mxlinux
+72		Neovim					neovim
+73		Parabola GNU/Linux-libre 		parabola
+74		Puppy Linux				puppy
+75		Qtile					qtile
+76		Sway					sway
+77		Trisquel GNU/Linux			trisquel
+78		Vanilla OS				vanilla
+79		Wayland					wayland
+80		XFCE					xfce
+81		XMonad					xmonad
+82		Xorg					xorg
